@@ -162,7 +162,7 @@
         <script type="text/babel"></script>
         <style type="text/css">
         label + label {
-            margin-left: 20px;
+            margin-left: 10px;
         }
         </style>
     </head>
@@ -320,9 +320,9 @@
               <div id="stress" class="survey-box" data-show-dialog>
                   <h1>The last category is LIFE STRESS.</h1>
                   <h3>12. To answer this question, please circle the number you feel best corresponds to the level of stress in your everyday life.</h3>
-                  <h4>
-                    <span>Not at all stressful</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>Very stressful</span>
-                  </h4>
+                  <h5>
+                    6 = Not at all stressful to 1 = Very stressful
+                  </h5>
                         <label class="radio-container"><input type="radio" name="stress_scale" value="6" data-replace="x:6">6<span class="checkmark"></span></label>
                         <label class="radio-container"><input type="radio" name="stress_scale" value="5" data-replace="x:5">5<span class="checkmark"></span></label>
                         <label class="radio-container"><input type="radio" name="stress_scale" value="4" data-replace="x:4">4<span class="checkmark"></span></label>
