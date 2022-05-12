@@ -162,7 +162,7 @@
         <script type="text/babel"></script>
         <style type="text/css">
         label + label {
-            margin-left: 30px;
+            margin-left: 20px;
         }
         </style>
     </head>
