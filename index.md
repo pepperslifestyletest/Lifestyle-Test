@@ -215,7 +215,7 @@
                       <label class="radio-container"><input type="radio" name="likert_4" value="0" data-replace="x:0">0/week<span class="checkmark"></span></label> <br>
                       <label class="radio-container"><input type="radio" name="likert_4" value="2" data-replace="x:2">1-3 times/week<span class="checkmark"></span></label> <br>
                       <label class="radio-container"><input type="radio" name="likert_4" value="3" data-replace="x:3">4-7 times/week<span class="checkmark"></span></label> <br>
-                      <label class="radio-container"><input type="radio" name="likert_4" value="4" data-replace="x:4">8 or more times/day<span class="checkmark"></span></label> <br>
+                      <label class="radio-container"><input type="radio" name="likert_4" value="4" data-replace="x:4">8 or more times/week<span class="checkmark"></span></label> <br>
                   </div>
                 
                   <h3>5. Moderate exercise, such as the following:</h3>
@@ -229,7 +229,7 @@
                     <label class="radio-container"><input type="radio" name="likert_4" value="0" data-replace="x:0">0/week<span class="checkmark"></span></label> <br>
                     <label class="radio-container"><input type="radio" name="likert_4" value="4" data-replace="x:4">1-3 times/week<span class="checkmark"></span></label> <br>
                     <label class="radio-container"><input type="radio" name="likert_4" value="6" data-replace="x:6">4-7 times/week<span class="checkmark"></span></label> <br>
-                    <label class="radio-container"><input type="radio" name="likert_4" value="8" data-replace="x:8">8 or more times/day<span class="checkmark"></span></label> <br>
+                    <label class="radio-container"><input type="radio" name="likert_4" value="8" data-replace="x:8">8 or more times/week<span class="checkmark"></span></label> <br>
                   </div>
 
                   <h3>6. Vigorous exercise, such as the following:</h3>
@@ -243,7 +243,7 @@
                     <label class="radio-container"><input type="radio" name="likert_4" value="0" data-replace="x:0">0/week<span class="checkmark"></span></label> <br>
                     <label class="radio-container"><input type="radio" name="likert_4" value="6" data-replace="x:6">1-3 times/week<span class="checkmark"></span></label> <br>
                     <label class="radio-container"><input type="radio" name="likert_4" value="9" data-replace="x:9">4-7 times/week<span class="checkmark"></span></label> <br>
-                    <label class="radio-container"><input type="radio" name="likert_4" value="12" data-replace="x:12">8 or more times/day<span class="checkmark"></span></label> <br>
+                    <label class="radio-container"><input type="radio" name="likert_4" value="12" data-replace="x:12">8 or more times/week<span class="checkmark"></span></label> <br>
                   </div>
               </div>
 
